@@ -657,17 +657,17 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 2.7em;
 }
 
 .hero-bloc-text-sub {
-    font-size: 36px;
+    font-size:  2.7em;
 }
 
 .statement-bloc-text {
     line-height: 26px;
     font-style: italic;
-    font-size: 20px;
+    font-size: 1.4em;
     text-align: center;
     font-weight: lighter;
     max-width: 520px;
@@ -675,7 +675,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1.1em;
 }
 
 .tight-width-whitespace {
@@ -684,7 +684,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 1.4em;
     font-family: "Open Sans";
 }
 
@@ -693,7 +693,7 @@ p {
     color: rgba(0, 0, 0, 0.907)!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 18px;
+    font-size: 1.2em;
     font-weight: 700;
     background: #F3976C;
 }
@@ -708,12 +708,12 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 1.6em;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 1.1em;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
