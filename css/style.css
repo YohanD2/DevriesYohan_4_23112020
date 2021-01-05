@@ -823,6 +823,40 @@ h4 {
     background-image: url("../img/contact.jpg");
 }
 
+/* CUSTOM STYLE */
+
+    .info-title{
+        color:rgba(0, 0, 0, 0.927);
+        font-size: 1.2em;
+    }
+	#bloc-5-cta h2{
+		background: #303030;
+		padding: 10px;
+		border-radius: 10px;
+	}
+	#form_1{
+		font-size: 16px;
+	}
+	.intro{
+		width:70%;
+		font-size: 1.6em;
+	}
+	.quote{
+		width:75%;
+		font-size: 1.4em;
+	}
+	.title-realisation{
+		width:45%;
+		font-size: 1.6em;
+	}
+	#bloc-8 p, #bloc-8 .fa{
+		color: rgba(0, 0, 0, 0.927)!important;
+	}
+	#bloc-8 a:hover{
+		text-decoration: underline;
+	}
+
+/* END CUSTOM STYLE */
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
